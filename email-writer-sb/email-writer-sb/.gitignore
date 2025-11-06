@@ -1,0 +1,33 @@
+# ---- Java / Spring Boot
+target/
+*.iml
+.idea/
+*.class
+*.log
+*.jar
+*.war
+*.ear
+.project
+.settings/
+.springBeans
+.mvn/wrapper/maven-wrapper.jar
+
+# Local config / secrets
+application.properties
+application.yml
+*.p12
+*.keystore
+
+# Add example config file that is safe to publish
+application-example.properties
+
+# ---- Node/Frontend (if any)
+node_modules/
+dist/
+build/
+*.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
