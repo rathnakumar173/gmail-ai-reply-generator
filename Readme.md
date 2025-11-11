@@ -106,6 +106,17 @@ A application-example.properties template is included.
 📝 License
 
 This project is licensed under the MIT License.
+## 📸 Screenshots
+
+### Gmail - AI Reply Button
+![Gmail AI Button](extension/screenshots/gmail-ai-button.png)
+
+### Standalone Web UI
+![Web UI](extension/screenshots/web-ui-demo.png)
+
+### Example Generated Reply
+![Generated Reply](extension/screenshots/generated-reply.png)
+
 
 
 
